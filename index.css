@@ -1,7 +1,7 @@
 body{
     color:black;
     float: none;
-  margin: 5px;
+  margin: 25px;
     padding: 100px;
     background-color: DeepSkyBlue;
     text-decoration: none;
@@ -27,11 +27,4 @@ p.pre {
 	  	text-decoration: underline;
 	  	font-weight: bold;
 	  	font-size: large;
-	  }
- div{
-	  	text-decoration: none;
-	  	display: inline-block;
-	  	background-color: DeepSkyBlue;
-	  	padding: 5px;
-	  	margin: 10px;
 	  }
