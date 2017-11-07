@@ -1,8 +1,10 @@
 body{
     color:black;
     float: none;
-    margin: 100px;
+  margin: 5px;
+    padding: 10px;
     background-color: DeepSkyBlue;
+    text-decoration: none;
 }
 p.pre {
     white-space: pre;
