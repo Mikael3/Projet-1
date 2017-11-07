@@ -26,3 +26,10 @@ p.pre {
 	  	font-weight: bold;
 	  	font-size: large;
 	  }
+ div{
+	  	text-decoration: none;
+	  	display: inline-block;
+	  	background-color: DeepSkyBlue;
+	  	padding: 5px;
+	  	margin: 10px;
+	  }
