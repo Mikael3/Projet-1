@@ -1,16 +1,16 @@
     body {
     color: black;
     float: none;
-    margin: 25px;
-    padding: 100px;
+    margin: 25;
+    padding: 100;
     background-color: DeepSkyBlue;
     text-decoration: none;
 }
 
 div.container
 {
-    width: 100%;
-    height: 100%;
+    width: 100;
+    height: 100;
 }
 
 p.pre {
@@ -21,7 +21,7 @@ img {
     display: block;
     float: ;
     right: width: 120;
-    margin-right: 10px;
+    margin-right: 10;
 }
 
 p.position_fixed {
