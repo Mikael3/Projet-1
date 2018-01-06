@@ -1,4 +1,7 @@
-    body {
+ @media all and (min-device-width: 320px, max-device-width: 2000px);   
+
+
+body {
     color: black;
     float: none;
     margin: 25;
