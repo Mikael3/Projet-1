@@ -1,5 +1,5 @@
- @media all and (min-device-width: 320px, max-device-width: 2000px){  
-
+ @media all and (max-device-width: 2000px)
+{
 
 body {
     color: black;
@@ -40,4 +40,5 @@ p.underline {
     text-decoration: underline;
     font-weight: bold;
     font-size: large;
-  }
+  
+ }
