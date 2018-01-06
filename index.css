@@ -1,4 +1,4 @@
- @media all and (min-device-width: 320px, max-device-width: 2000px);   
+ @media all and (min-device-width: 320px, max-device-width: 2000px){  
 
 
 body {
@@ -40,3 +40,4 @@ p.underline {
     text-decoration: underline;
     font-weight: bold;
     font-size: large;
+  }
